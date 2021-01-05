@@ -1,0 +1,21 @@
+body{
+    font-family: 'Charmonman', cursive;
+    background-color: rgb(74, 74, 221);
+    color: oldlace;
+
+button{
+    padding: 5px;
+    color: rgb(234, 234, 248);
+    background-color: red;
+    font-size: medium;
+    font-weight: 50;
+    font-variant: initial;
+    height: 50%;
+    box-sizing: border-box;
+}
+nav{
+    background: orchid;
+    width: 100%;
+    padding: 10px 0;
+    color: palegoldenrod;
+}
